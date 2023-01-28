@@ -1,0 +1,108 @@
+.head {
+    color: grey;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+.b1 {
+    
+    /* position: relative; */
+    background-color: rgba(66, 185, 253, 255);
+    /* padding: 60px; */
+    color: white;
+  
+}
+
+form{
+    background-color: rgba(250, 248, 246, 0.4);
+    padding: 20px;
+    margin: 20px;
+}
+ 
+button{
+    background-color: orange;
+    
+}
+label, button{
+    margin-top: 10px;
+}
+
+.small{
+   font-size: small; 
+  
+}
+
+.symbols{
+    margin-top: 2%;
+    font-size: xx-large;
+
+}   
+
+#butt  {
+
+    background-color: orange;
+    width: 330px;
+    border: none;
+    color: white;
+    padding: 20px;
+    
+}
+
+.sec2 {
+
+    color: grey;
+    text-align: center;
+  
+}
+
+
+
+.sec3 {
+
+    color: grey;
+    position: relative;
+    padding-top: 50px;
+    /* height: 400px; */
+    background-color: rgba(241, 241, 241, 255);
+    /* height: 550px; */
+
+}
+
+.CEO {
+    text-align: center;
+    
+}
+
+.pfpic{
+    border-style: solid ;
+    border-radius: 50%;
+    border-color: black;
+    border-width: 1px;
+    max-width: 5%;
+    margin-bottom: 1%;
+    
+}
+
+.footer {
+    text-align: center;
+    color: grey;
+   
+}
+
+
+
+
+@media (min-width:576px) {
+
+    .none1 {
+        display: none;
+                
+    }
+
+}
+
+
+
+
+
